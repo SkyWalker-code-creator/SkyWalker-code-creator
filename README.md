@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FFFFFF&height=250&section=header&text=SKYWALKER&fontSize=80&fontColor=000000&animation=twinkling&fontAlignY=40" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=500&color=000000&center=true&vCenter=true&width=700&lines=🛡️+ANTI-CHEAT+DEVELOPER+🛡️;💀+SECURITY+RESEARCHER+💀;⚡+RUST+SHIELD+CREATOR+⚡;🎯+WPF+EXPERT+🎯" alt="Typing SVG">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=500&color=000000&center=true&vCenter=true&width=700&lines=%F0%9F%9B%A1%EF%B8%8F+ANTI-CHEAT+DEVELOPER+%F0%9F%9B%A1%EF%B8%8F;%F0%9F%92%80+SECURITY+RESEARCHER+%F0%9F%92%80;%E2%9A%A1+RUST+SHIELD+CREATOR+%E2%9A%A1;%F0%9F%8E%AF+WPF+EXPERT+%F0%9F%8E%AF" alt="Typing SVG"/>
+
 <br/>
 <a href="https://t.me/Loksimen"><img src="https://img.shields.io/badge/📱_TELEGRAM-FFFFFF?style=for-the-badge&logo=telegram&logoColor=000000&color=FFFFFF&labelColor=FF69B4" alt="Telegram"/></a>
 <a href="https://discord.gg/"><img src="https://img.shields.io/badge/🎮_DISCORD-FFFFFF?style=for-the-badge&logo=discord&logoColor=000000&color=FFFFFF&labelColor=FF69B4" alt="Discord"/></a>
@@ -16,8 +18,6 @@
 - 🔭 **Сейчас работаю над:** Rust Shield Scanner — анти-чит для Rust
 - 🌱 **Изучаю:** Reverse Engineering, WPF оптимизацию
 - 💬 **Спрашивай меня о:** C#, .NET, Anti-Cheat технологиях
-- ⚡ **Факт:** Каждая строка кода делает игру честнее
-- 🎯 **Цель:** Очистить Rust от читеров
 
 ---
 
