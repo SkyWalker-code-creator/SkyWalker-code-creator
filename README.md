@@ -1,4 +1,5 @@
-<!-- Заголовок с анимацией печати -->
+# 🛡️ SkyWalker | Anti-Cheat Developer
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=E94560&height=200&section=header&text=SkyWalker&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%">
   
@@ -17,25 +18,20 @@
 - 🔭 Сейчас я работаю над **Rust Shield Scanner** — профессиональной анти-чит системой.
 - 🌱 Постоянно изучаю новые методы обхода защиты и способы их детектирования.
 - 💬 Спрашивай меня о **Reverse Engineering**, **Anti-Cheat технологиях** и **WPF разработке**.
-- ⚡ Интересный факт: Я не пью кофе, меня заряжает энергия от написания кода. ⚡
+- ⚡ Интересный факт: Я не пью кофе, меня заряжает энергия от написания кода.
 
 <br/>
 
-## 🛠️ Мой арсенал (Tech Stack)
+## 🛠️ Мой арсенал
 
 <div align="center">
   
-  <!-- Языки -->
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  
-  <!-- Инструменты -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS"/>
-  
-  <!-- Безопасность -->
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
   
@@ -45,15 +41,9 @@
 
 ## 🚀 Мои проекты
 
-<div align="center">
-  
-  | Проект | Описание | Технологии |
-  |--------|----------|------------|
-  | **Rust Shield Scanner** | Профессиональная анти-чит система для обнаружения запрещённого ПО в Rust | `C#` `WPF` `.NET 8.0` |
-  
-</div>
-
-> 💡 **Скоро здесь появятся новые проекты!** Следи за обновлениями.
+| Проект | Описание | Технологии |
+|--------|----------|------------|
+| **Rust Shield Scanner** | Профессиональная анти-чит система для обнаружения запрещённого ПО в Rust | `C#` `WPF` `.NET 8.0` |
 
 <br/>
 
@@ -82,7 +72,6 @@
 
 <br/>
 
-<!-- Анимированная змейка, пожирающая твой вклад -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SkyWalker-code-creator/SkyWalker-code-creator/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SkyWalker-code-creator/SkyWalker-code-creator/output/github-contribution-grid-snake.svg">
