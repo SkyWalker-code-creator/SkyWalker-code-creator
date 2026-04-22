@@ -1,4 +1,4 @@
-<div align="center">
+# <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFFFFF&height=200&section=header&text=SKYWALKER&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=000000&center=true&vCenter=true&width=600&lines=%F0%9F%9B%A1%EF%B8%8F+ANTI-CHEAT+DEVELOPER;%F0%9F%92%80+SECURITY+RESEARCHER;%E2%9A%A1+RUST+SHIELD+CREATOR;%F0%9F%8E%AF+WPF+EXPERT" alt="Typing SVG"/>
