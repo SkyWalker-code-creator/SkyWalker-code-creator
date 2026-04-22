@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style-for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 
 </div>
 
@@ -73,9 +73,9 @@
 ## 🐍 Мой вклад
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SkyWalker-code-creator/SkyWalker-code-creator/output/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SkyWalker-code-creator/SkyWalker-code-creator/output/dist/github-contribution-grid-snake.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/SkyWalker-code-creator/SkyWalker-code-creator/output/dist/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SkyWalker-code-creator/SkyWalker-code-creator/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SkyWalker-code-creator/SkyWalker-code-creator/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/SkyWalker-code-creator/SkyWalker-code-creator/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
